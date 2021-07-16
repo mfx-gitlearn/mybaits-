@@ -7,10 +7,6 @@
 # Editor-based HTTP Client requests
 /httpRequests/
 
-# Maven #
-target/
-# IDEA #
-.idea/
-*.imi
+
 
  
